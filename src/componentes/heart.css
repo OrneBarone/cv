@@ -1,0 +1,8 @@
+.libro{
+    color: var(--main);
+    cursor: pointer;
+}
+.asterisco{
+    color: var(--main);
+    cursor: pointer;
+}
